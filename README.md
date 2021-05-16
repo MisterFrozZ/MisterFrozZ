@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🖥 Langages : Go, Java, C, HTML, CSS, Javascript
+🖥 programming languages: Go, Java, C, HTML, CSS, Javascript.
 
-🛠 Développeur pour [La Revue Galactique](https://larevuegalactique.fr/)
+🛠 Dev for [La Revue Galactique](https://larevuegalactique.fr/) since 2019.
