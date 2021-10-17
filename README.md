@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🖥 Programming languages: C, Python, Java, HTML, CSS, Javascript, Go.
+🖥 Licence in Computer Science.
 
 🛠 Dev for La Revue Galactique from 2019 to 2021.
