@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🖥 3rd year of Licence in Computer Science at Université Clermont Auvergne.
+🖥 3rd year of Licence in Computer Science at ISIMA.
 
 🚀 Founder of [*fiestaaa*](https://github.com/fiestaaa).
 
