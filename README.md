@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🖥 1st year of Master's degree in Computer Science at ISIMA.
+👨‍🎓 First year of Master in Information Technology at ISIMA.
 
 🚀 Co-founder of [*fiestaaa*](https://github.com/fiestaaa) with [Axel Coezard](https://github.com/axelcoezard).
 
