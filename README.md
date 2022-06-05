@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🖥 3rd year of Licence in Computer Science at ISIMA.
+🖥 1st year of Master's degree in Computer Science at ISIMA.
 
 🚀 Co-founder of [*fiestaaa*](https://github.com/fiestaaa) with [Axel Coezard](https://github.com/axelcoezard).
 
