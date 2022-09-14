@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-👨‍🎓 First year of MSc in IT at ISIMA.
+👨‍🎓 First year of Master's Degree in Computer Science at ISIMA.
 
-🚀 Co-founder of [*fiestaaa*](https://github.com/fiestaaa) with [Axel Coezard](https://github.com/axelcoezard).
+🚀 Founder of [*fiestaaa*](https://github.com/fiestaaa).
 
 🛠 Dev for [*La Revue Galactique*](https://twitter.com/revuegalactique) from 2019 to 2021.
