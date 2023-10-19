@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Software Engineer at [Braincube](https://braincube.com/)
+💻 Software Developer at [Braincube](https://braincube.com/)
 
 👨‍🎓 Student in Master's degree of Computer Science at [ISIMA](https://www.isima.fr/)
 
