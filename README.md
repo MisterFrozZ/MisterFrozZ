@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-💻 Software Developer at [Braincube](https://braincube.com/)
+💻 **Software Developer** at [Braincube](https://braincube.com/), building innovative digital solutions for the industry.
 
-👨‍🎓 Student in Master's degree of Computer Science at [ISIMA](https://www.isima.fr/)
+🎓 Holder of a **Master's Degree in Computer Science** from [ISIMA](https://www.isima.fr/), specialized in **software engineering and applications integration**.
 
-🛠 Dev for *La Revue Galactique* from 2019 to 2021
+🚀 Former developer for *La Revue Galactique* (2019-2021), a journalistic revue focused on space technologies and exploration, where I contributed to projects merging cutting-edge tech and journalism.
